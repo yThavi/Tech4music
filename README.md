@@ -19,15 +19,15 @@ OBS: PULE AS LINHAS NO FINAL DE CADA VIRGULA
 __________________________________________
 
 Para consultar a música por ID ( GET )
-http://localhost:8080/api/musicas/ (ID GERADO PELO METODO POST)
+http://localhost:8080/api/musicas/ (ID DA MUSICA GERADO PELO METODO POST)
 __________________________________________
 
 Para deletar uma música ( DELETE )
-http://localhost:8080/api/musicas/ (ID GERADO PELO METODO POST)
+http://localhost:8080/api/musicas/ (ID DA MUSICA GERADO PELO METODO POST)
 __________________________________________
 
 Para atualizar uma música ( PUT )
-http://localhost:8080/api/musicas/ (ID GERADO PELO METODO POST)
+http://localhost:8080/api/musicas/ (ID DA MUSICA GERADO PELO METODO POST)
 __________________________________________
 
 By: Thavi, aluno da Tech4me 
