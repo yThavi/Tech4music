@@ -5,6 +5,7 @@ Para cadastrar músicas ( POST )
 http://localhost:8080/api/musicas/
 
 Formato de arquivo JSON para cadastramento de músicas:
+OBS: PULE AS LINHAS NO FINAL DE CADA VIRGULA
 
 {
     "titulo": "",
