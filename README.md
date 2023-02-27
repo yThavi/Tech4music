@@ -6,6 +6,7 @@ MongoDB Compass
 
 Para criar o banco de dados
 
+mongodb://localhost:27017/tech4music            /
 use tech4music
 
 Cadastrando as músicas direto do MongoDB:
